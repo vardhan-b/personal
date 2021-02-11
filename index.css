@@ -1,0 +1,81 @@
+h1{
+    color: #66BFBF;
+    font-family: 'Nerko One', cursive;
+    font-size: 4rem;
+    line-height: 2; 
+    margin: 50px auto 0px auto;
+}
+h2{
+    color: #66BFBF;
+}
+.prog  {
+font-weight: normal;
+margin-top: 0%;
+}
+h3{
+    color: #11999E;
+}
+body{
+   
+    margin: 0%;
+   text-align: center;
+    font-family: sans-serif;
+}
+p{
+    line-height: 2;
+}
+.profile{
+width: 50%;
+margin: auto;
+}
+.top-container{
+    background-color: #c6fced;
+    position: static;
+    padding-top: 100px;
+}
+.top{
+    position: absolute;
+    right:300px;
+    top: 50px;
+    margin: auto;
+}
+.bottom{
+    position: absolute;
+    left: 400px;
+}
+.hcj{
+    border-radius :100% ;
+    width: 30%;
+    float: left;
+    margin:auto  30px auto  ;
+}
+.img-b{
+    border-radius :100% ;
+    width: 30%;
+    float: right;
+    margin-left:30px;
+}
+.skill-row{
+    width: 50%;
+    margin:50px auto 100px auto;
+    text-align: left;
+}
+.skill2{
+    width: 50%;
+    margin:50px auto 100px auto;
+    text-align: left;
+}
+
+a{
+    color: #11999E;
+}
+hr{
+    width: 6%;
+    border: 8px dotted rgb(45, 124, 148);
+    border-bottom: none;
+    margin:50px auto 50px auto ;
+}
+.para{
+    width: 50%;
+    margin: auto;
+}
